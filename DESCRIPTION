@@ -1,0 +1,14 @@
+Package: inflate
+Type: Package
+Title: Inflate a data frame
+Version: 0.0.9000
+Date: 2015-06-18
+Author: Guy Dawson
+Maintainer: Guy Dawson <gccdawson@gmail.com>
+Description: Inflate a data frame
+Depends:
+    R (>= 3.1)
+Imports:
+    dplyr (>= 0.4.2)
+License: MIT
+LazyData: TRUE
